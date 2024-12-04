@@ -1,3 +1,11 @@
-p + span {
+.dog-name {
   color: #ff0;
+}
+
+p {
+  color: #f00;
+}
+
+p.dog-name {
+  color: #0f0;
 }/*# sourceMappingURL=style.css.map */

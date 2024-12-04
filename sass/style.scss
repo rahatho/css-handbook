@@ -1,4 +1,12 @@
-p + span {
-    color: #ff0;//yellow
+.dog-name {
+    color: #ff0;
+}
+
+p {
+    color: #f00;
+}
+
+p.dog-name {
+    color: #0f0;
 }
 
