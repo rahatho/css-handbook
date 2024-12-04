@@ -1,12 +1,22 @@
-.dog-name {
-    color: #ff0;
+p {//0001
+    color: #00f;
 }
 
-p {
+span {//0001
+    color: #050055;
+}
+
+p span {//0002
+    color: #00a;
+}
+
+p > span {
+    color: #0f0;
+}
+
+div p > span {
     color: #f00;
 }
 
-p.dog-name {
-    color: #0f0;
-}
+
 
