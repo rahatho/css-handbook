@@ -1,22 +1,17 @@
-p {//0001
+.name {//0010
     color: #00f;
 }
 
-span {//0001
-    color: #050055;
-}
-
-p span {//0002
-    color: #00a;
-}
-
-p > span {
+.users .name {//0020
     color: #0f0;
 }
 
-div p > span {
+[href$='.pdf']{//0010
     color: #f00;
 }
 
+:hover {
+    color: #0ff;
+}
 
 

@@ -1,19 +1,15 @@
-p {
+.name {
   color: #00f;
 }
 
-span {
-  color: #050055;
-}
-
-p span {
-  color: #00a;
-}
-
-p > span {
+.users .name {
   color: #0f0;
 }
 
-div p > span {
+[href$=".pdf"] {
   color: #f00;
+}
+
+:hover {
+  color: #0ff;
 }/*# sourceMappingURL=style.css.map */
