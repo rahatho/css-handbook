@@ -2,11 +2,19 @@
   color: #00f;
 }
 
-.users .name {
+span {
+  color: #050055;
+}
+
+p span {
+  color: #00a;
+}
+
+p > span {
   color: #0f0;
 }
 
-[href$=".pdf"] {
+div p > span {
   color: #f00;
 }
 
