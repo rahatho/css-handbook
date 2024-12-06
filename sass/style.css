@@ -1,1 +1,11 @@
-/*# sourceMappingURL=style.css.map */
+div .name {
+  color: #00f;
+}
+
+a[href$=".pdf"] {
+  color: #f00;
+}
+
+.pictures img:hover {
+  color: #0ff;
+}/*# sourceMappingURL=style.css.map */
