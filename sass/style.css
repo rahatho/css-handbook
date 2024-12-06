@@ -1,15 +1,11 @@
-.name {
+div .name {
   color: #00f;
 }
 
-.users .name {
-  color: #0f0;
-}
-
-[href$=".pdf"] {
+a[href$=".pdf"] {
   color: #f00;
 }
 
-:hover {
+.pictures img:hover {
   color: #0ff;
 }/*# sourceMappingURL=style.css.map */

@@ -1,16 +1,14 @@
-.name {//0010
+div .name {//0011
     color: #00f;
 }
 
-.users .name {//0020
-    color: #0f0;
-}
 
-[href$='.pdf']{//0010
+
+a[href$='.pdf']{//0011
     color: #f00;
 }
 
-:hover {
+.pictures img:hover {//0021
     color: #0ff;
 }
 
