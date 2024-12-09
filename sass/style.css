@@ -1,15 +1,1 @@
-.name {
-  color: #00f;
-}
-
-.users .name {
-  color: #0f0;
-}
-
-[href$=".pdf"] {
-  color: #f00;
-}
-
-:hover {
-  color: #0ff;
-}/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.css.map */
