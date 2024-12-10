@@ -1,15 +1,11 @@
-div .name {//0011
+.name {
     color: #00f;
 }
 
-
-
-a[href$='.pdf']{//0011
-    color: #f00;
-}
-
-.pictures img:hover {//0021
+.name.name {//no space
     color: #0ff;
 }
 
-
+.name.name.name {
+    color: #ff0;
+}
